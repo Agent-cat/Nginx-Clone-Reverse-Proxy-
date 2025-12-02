@@ -1,1 +1,1 @@
-﻿# Nginx-Clone-Reverse-Proxy
+Reverse-Proxy
